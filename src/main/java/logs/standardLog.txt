@@ -1,0 +1,36 @@
+Log Tue Jun 13 20:54:37 CEST 2023 : - get all movies
+Log Tue Jun 13 21:10:34 CEST 2023 : - get all movies
+Log Tue Jun 13 21:10:34 CEST 2023 : - get all movies
+Log Tue Jun 13 21:10:34 CEST 2023 : - get all movies
+Log Tue Jun 13 21:10:38 CEST 2023 : - add moviecom.example.rest2.Movie@19f45776
+Log Tue Jun 13 21:11:21 CEST 2023 : - get all movies
+Log Tue Jun 13 21:13:19 CEST 2023 : - add moviecom.example.rest2.Movie@567d65ff
+Log Tue Jun 13 21:17:13 CEST 2023 : - get all movies
+Log Tue Jun 13 21:22:34 CEST 2023 : - get all movies
+Log Tue Jun 13 21:25:59 CEST 2023 : - get all movies
+Log Tue Jun 13 21:26:01 CEST 2023 : - get all movies
+Log Wed Jun 14 08:49:48 CEST 2023 : - get all movies
+Log Wed Jun 14 09:09:47 CEST 2023 : - get all movies
+Log Wed Jun 14 09:09:49 CEST 2023 : - get all movies
+Log Wed Jun 14 09:10:39 CEST 2023 : - get all movies
+Log Wed Jun 14 09:10:40 CEST 2023 : - get all movies
+Log Wed Jun 14 09:10:43 CEST 2023 : - get movie2
+Log Wed Jun 14 09:10:44 CEST 2023 : - get movie2
+Log Wed Jun 14 09:10:45 CEST 2023 : - get all movies
+Log Wed Jun 14 09:10:51 CEST 2023 : - add moviecom.example.rest2.Movie@5ceb63f3
+Log Wed Jun 14 09:10:53 CEST 2023 : - get all movies
+Log Wed Jun 14 09:14:13 CEST 2023 : - get all movies
+Log Wed Jun 14 09:14:15 CEST 2023 : - get all movies
+Log Wed Jun 14 09:24:14 CEST 2023 : - get all movies
+Log Wed Jun 14 09:24:30 CEST 2023 : - get movie1
+Log Wed Jun 14 09:24:30 CEST 2023 : - get movie1
+Log Wed Jun 14 09:24:36 CEST 2023 : - add moviecom.example.rest2.Movie@261a17cf
+Log Wed Jun 14 09:24:38 CEST 2023 : - get all movies
+Log Wed Jun 14 09:24:41 CEST 2023 : - get all movies
+Log Mon Jun 19 12:52:21 CEST 2023 : - get all movies
+Log Mon Jun 19 12:56:24 CEST 2023 : - add moviecom.example.rest2.Movie@1b6e07cb
+Log Mon Jun 19 12:56:27 CEST 2023 : - get all movies
+Log Wed Jun 21 13:10:11 CEST 2023 : - get all movies
+Log Wed Jun 21 13:13:15 CEST 2023 : - add moviecom.example.rest2.Movie@7b89735e
+Log Wed Jun 21 13:13:18 CEST 2023 : - get all movies
+Log Wed Jun 21 13:14:40 CEST 2023 : - get all movies
